@@ -18,6 +18,7 @@ export default function DettaglioPokemon() {
         ... aggiungiamo link alla pagina con la lista
 
         BONUS: se salvate il numero di pagina nell'URL, usando useParams, rotta in Routes con :pagina...
+        2) caricare 2 pokemon e le loro mosse, caricare gli hp e quando clicchi su una mossa sottrarre agli hp il danno
     */
 
     return (

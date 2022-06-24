@@ -45,3 +45,8 @@ a {
     transform: rotate(360deg);
   }
 }
+
+.attacking {
+  padding: 15px;
+  border: 1px red solid;
+}
